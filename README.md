@@ -5,17 +5,14 @@ All tech notes in one place.
 
 ## General
 
-- s
-- s
-- s
-- s
+- TO DO
 
 ------
 
 
 ## Design
 
-- 
+- TO DO
 
 
 -------
