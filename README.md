@@ -1,2 +1,10 @@
-# tech-notes
-Tech notes about all concepts.
+# Tech-notes
+All tech notes in one place.
+
+
+-----
+
+
+
+
+------
