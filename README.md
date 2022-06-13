@@ -38,12 +38,11 @@ All tech notes in one place.
 
 * **CAP** 
 * - **C**onsistency **A**vailability **P**artition Tolerance 
-* - ```No distributed system is safe from network failures, thus network partitioning generally has to be tolerated. In the presence of a partition, one is then left with two options: consistency or availability. When choosing consistency over availability, the system will return an error or a time out if particular information cannot be guaranteed to be up to date due to network partitioning.```
-* - https://en.wikipedia.org/wiki/CAP_theorem.
+. ```No distributed system is safe from network failures, thus network partitioning generally has to be tolerated. In 
+    the presence of a partition, one is then left with two options: consistency or availability. When choosing consistency over availability, the system will return an error or a time out if particular information cannot be guaranteed to be up to date due to network partitioning.```
+. https://en.wikipedia.org/wiki/CAP_theorem.
 * **PIE**
-* - **P**attern Access , **I**nfinite Scale , **E**fficiency
-* - You can get two of PIE.
-* - PIE is new next after CAP. Given We know what we need in CAP already. 
+* - **P**attern Access , **I**nfinite Scale , **E**fficiency . You can get two of PIE. PIE is new next after CAP. Given We know what we need in CAP already. 
 
 -------
 
