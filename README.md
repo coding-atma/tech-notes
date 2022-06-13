@@ -12,12 +12,15 @@ All tech notes in one place.
 ## Software Engineering Principles / Philosophies
 
 
-| **Principle / Law**          | **Description**                                                                                                 | **Comments**                                           |
-|------------------------------|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
-| Murphy's Law                 | `Anything that can go wrong will go wrong.`                                                                     |                                                        |
-| YAGNI                        | `You Are Not Going to Need It.`                                                                                 | Sometime we engineers' go on to do things not required. |
-| Bullshit Asymmetry Principle | `The amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it` ||
-|                              |                                                                                                                 |                                                        |
+| **Principle / Law**          | **Description**                                                                                                                                      | **Comments**                                           |
+|------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| Murphy's Law                 | `Anything that can go wrong will go wrong.`                                                                                                          |                                                        |
+| YAGNI                        | `You Are Not Going to Need It.`                                                                                                                      | Sometime we engineers' go on to do things not required. |
+| Bullshit Asymmetry Principle | `The amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it`                                      ||
+|          Knuth's Law                   | `Premature optimization is the root of all evil (or at least most of it) in programming.    `                                                        |                                                        |
+|          Conway's Law                    | `Organizations which design systems ... are constrained to produce designs which are copies of the communication structures of these organizations.` |                                                        |
+|          Principle of Chaos                  | `N/A`                                                                                                                                                  |                                                        |
+
 
 -----
 
