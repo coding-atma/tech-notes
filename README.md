@@ -9,11 +9,29 @@ All tech notes in one place.
 
 ------
 
+## Software Engineering Principles / Philosophies
+
+
+| **Principle / Law**          | **Description**                                                                                                 | **Comments**                                           |
+|------------------------------|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| Murphy's Law                 | `Anything that can go wrong will go wrong.`                                                                     |                                                        |
+| YAGNI                        | `You Are Not Going to Need It.`                                                                                 | Sometime we engineers' go on to do things not required. |
+| Bullshit Asymmetry Principle | `The amount of energy needed to refute bullshit is an order of magnitude bigger than that needed to produce it` ||
+|                              |                                                                                                                 |                                                        |
+
+-----
 
 ## Design
 
 - TO DO
 
+
+-------
+
+
+## Distributed Systems
+
+- TO DO
 
 -------
 
